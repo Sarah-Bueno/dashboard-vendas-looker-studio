@@ -1,11 +1,11 @@
 # Dashboard de Vendas
 
-Projeto desenvolvido no Data Studio para análise de vendas.
+Projeto desenvolvido no Looker Studio para análise de vendas.
 
 ![Dashboard](dashboard.png)
 
 ## Ferramentas
-- Data Studio (antigo Looker Studio)
+- Looker Studio
 - Google Sheets
 - Visualização de Dados
 
