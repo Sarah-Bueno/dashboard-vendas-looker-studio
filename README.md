@@ -18,7 +18,12 @@ Projeto desenvolvido no Data Studio para análise de vendas.
 
 ## Arquivos
 - dashboard.png
-- planilhavendas.csv
+- gráfico de linha.png
+- gráfico de donut (pizza).png
+- gráfico preenchido.png
+- tabela.png
+- planilha vendas.csv
+- codigo_nome do produto.csv
 
 ## Aprendizados
 
