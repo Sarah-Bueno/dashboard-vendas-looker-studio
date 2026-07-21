@@ -42,12 +42,12 @@ O dashboard utiliza um conjunto de dados fictício de vendas contendo informaç�
 
 ## Arquivos
 - dashboard.png
-- gráfico de linha.png
-- gráfico de donut (pizza).png
-- gráfico preenchido.png
+- gráfico_de_linha.png
+- gráfico_de_donut_(pizza).png
+- gráfico_preenchido.png
 - tabela.png
-- planilha vendas.csv
-- codigo_nome do produto.csv
+- planilha_vendas.csv
+- codigo_nome_do_produto.csv
 
 ## Aprendizados
 
