@@ -9,7 +9,25 @@ Projeto desenvolvido no Looker Studio para análise de vendas.
 - Google Sheets
 - Visualização de Dados
 
-## Principais indicadores
+---
+
+## 🌎 Principais visualizações
+
+### Gráfico temporal de vendas totais
+
+![Mapa](gráfico preenchido.png)
+
+### Ranking dos Estados
+
+![Ranking](ranking.png)
+
+### População de 10 a 14 anos
+
+![Rosca](idade_10_a_14_anos_pizza.png)
+
+---
+
+## 📌 Principais indicadores
 
 - Vendas Totais
 - Países
