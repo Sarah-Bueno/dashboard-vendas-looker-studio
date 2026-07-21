@@ -15,15 +15,19 @@ Projeto desenvolvido no Looker Studio para análise de vendas.
 
 ### Gráfico temporal de vendas totais
 
-![Gráfico](gráfico_preenchido.png)
+![Gráfico](gráfico_de_linha.png)
 
-### Ranking dos Estados
+### Mapa vendas totais
 
-![Ranking](ranking.png)
+![Mapa](mapa_preenchido.png)
 
 ### População de 10 a 14 anos
 
-![Rosca](idade_10_a_14_anos_pizza.png)
+![Donut](gráfico_de_donut_(pizza).png)
+
+### Tabela de relatório de 5 produtos com mais vendas
+
+![Tabela](tabela.png)
 
 ---
 
