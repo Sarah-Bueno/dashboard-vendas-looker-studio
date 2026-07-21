@@ -1,11 +1,12 @@
 # Dashboard de Vendas
 
 Projeto desenvolvido no Power BI para análise de vendas.
+![Dashboard](dashboard.png)
 
 ## Ferramentas
-- Power BI
+- Data Studio (antigo Looker Studio)
 - Excel
 
 ## Arquivos
-- dashboard.pbix
+- dashboard.png
 - vendas.csv
